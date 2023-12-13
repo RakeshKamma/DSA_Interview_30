@@ -1,0 +1,13 @@
+step by step procedure- 
+
+1.Ask interviewer required questions about the problem like empty case and some examples etc
+2.write out those test cases and recheck the correct output
+3.figure out a solution without writing the code
+4.brute force first and test with test cases and explain time and space complexity
+5.optimized apprach and test with test cases and explain time and space complexity
+
+
+Notes -
+1. After brute force approach, compare the time and space complexity for example time-O(N^2) and space is O(1). From these two we 
+analyze that the difference is lot so maybe we can use space here and reduce time.  
+2. for iterating stuff do not iterate with values uses indicies
